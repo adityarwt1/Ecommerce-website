@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'roboto';
+  src: url('./assets/Roboto-Regular.ttf') format('woff2');
+}
+
+body {
+  font-family: 'roboto', sans-serif;
+  scroll-behavior: smooth;
+  
+}
